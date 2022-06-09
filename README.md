@@ -9,5 +9,5 @@ These are codes to help you understand what goes where.
 
 That being said, enjoy looking through these files whether ur a beginner or a pro coder! :)
 
-** Please don't distribute, these files are under the rightful ownership of `kartechkeyan98` **
+**Please don't distribute, these files are under the rightful ownership of `kartechkeyan98`**
 
